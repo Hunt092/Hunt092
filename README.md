@@ -6,10 +6,10 @@
 and trying to improve my skills as a programmer
 
 📫 How to reach me:
-* 📸 Instagram: https://www.instagram.com/hunt092/
-* 📱  Twitter: https://twitter.com/Hunt092
-* 📝 LinkedIn: https://www.linkedin.com/in/hunt92/
-* 📂 Youtube: https://www.youtube.com/channel/UCTRvyi-eC4qJKd9l9bvbsQQ/
+* 📸 [Instagram](https://www.instagram.com/hunt092/)
+* 📱  [Twitter](https://twitter.com/Hunt092)
+* 📝 [LinkedIn](https://www.linkedin.com/in/hunt92/)
+* 📂 [Youtube](https://www.youtube.com/channel/UCTRvyi-eC4qJKd9l9bvbsQQ/)
 <!--
 **Hunt092/Hunt092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
